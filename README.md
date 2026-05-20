@@ -9,13 +9,21 @@ Here you can find a portfolio of all my recent and older projects and contrbutio
 * https://github.com/guidovezzoni/repofactory A flexible solution for creating a repository pattern in your Android apps (Developed in 2019 and currently not maintained)
 
 ## AI related Projects
+
+### Spec Driven Development - SDD
+* https://github.com/guidovezzoni/venice [Work in Progress] Android app developed with SDD methodology
+
+### Skills
 * https://github.com/guidovezzoni/links-library-skill A personal link archiving skill for OpenClaw.
-* https://github.com/guidovezzoni/jobhunter-agent A Python CLI that searches job boards via the JSearch API, extracts key job fields, and prints tailored summaries.
-* https://jobbernaut.app/ A lovable app that helps candidates searching for their next role, and then, based on their uploaded resume, it allows to:
+
+### Lovable Apps & Prototypes
+* https://jobbernaut.app A lovable app that helps candidates searching for their next role, and then, based on their uploaded resume, it allows to:
   * Match CV and job description, highlighting skills compatibility, gaps, etc., so the resume can be improved before applying.
   * Prepare a tailored cover letter explaining why the candidate is a good fit for the job - this should be used as a guide rather than be forwarded directly.
   * Prepare a short introduction highlighting relevant experiences from the candidate CV, to start off the interview on the right foot.
-* https://github.com/guidovezzoni/venice [Work in Progress] Android app developed with SDD methodology
+* https://clarispend.lovable.app A lovable app for managin your family expenses
+* https://github.com/guidovezzoni/jobhunter-agent A Python CLI that searches job boards via the JSearch API, extracts key job fields, and prints tailored summaries.
+
 
 ## Public repos contributions
 * PR https://github.com/swagger-api/swagger-codegen/pull/5483 for https://github.com/swagger-api/swagger-codegen, a project which allows generation of API client libraries (SDK generation), server stubs and documentation automatically given an OpenAPI Spec.
