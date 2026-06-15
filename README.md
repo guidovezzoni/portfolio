@@ -10,8 +10,8 @@ Here you can find a portfolio of all my recent and older projects and contrbutio
 ## AI related Projects
 
 ### SDD - Spec-Driven Development
-* https://github.com/guidovezzoni/SDLC - Agentic AI Software Development Lifecycle
-* https://github.com/guidovezzoni/venice - Android app developed with SDD methodology and SDLC
+* https://github.com/guidovezzoni/SDLC - Agentic AI Software Development Lifecycle: SDLC is a set of four commands that let an AI coding agent autonomously drive the full lifecycle of a user story — from opening to verified delivery — while keeping the human developer in control of key decisions.
+* https://github.com/guidovezzoni/venice - A road trip planning app for Android, built with a modern architecture stack (MVI, Flow, Hilt, Room) and developed through SDD methodology, using the standard OpenSpec and the [SDLC](https://github.com/guidovezzoni/SDLC) agentic AI process linked above.
 
 ### OpenClaw Skills
 * https://github.com/guidovezzoni/links-library-skill A personal link archiving skill for OpenClaw.
