@@ -1,8 +1,7 @@
 Here you can find a portfolio of all my recent and older projects and contrbutions
 
 ## Android related projects
-* https://github.com/guidovezzoni/venice [Work in Progress] A road trip planning app for Android, built with a modern architecture stack (MVI, Flow, Hilt, Room) and developed through SDD - with BDD - methodology.
-* https://github.com/guidovezzoni/android-agents.md AGENTS.md and guidelines for Android native projects [OUTDATED - replace by the project above]
+* https://github.com/guidovezzoni/venice [Work in Progress] A road trip planning app for Android, built with a modern architecture stack (MVI, Flow, Hilt, Room) and developed through SDD - with BDD - methodology. This is a field test project for the [SDLC](https://github.com/guidovezzoni/SDLC) project
 * https://github.com/guidovezzoni/smart-properties custom gradle plugin (Developed in 2020 and currently not maintained)
 * https://github.com/guidovezzoni/BingeWorthyShows2 Android app showing the most popular TV shows from The Movie Database (Updated in 2023 and currently not maintained)
   * The intersting aspects are the clean architecture and a PR comparing RxJava3 vs flow & coroutines - more info [here](https://github.com/guidovezzoni/BingeWorthyShows2/pull/17/changes)
